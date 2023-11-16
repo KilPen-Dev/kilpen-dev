@@ -22,7 +22,7 @@
   /* Dark section - background color */
   --section-dark-bg-color: #3c4b00;
   /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
-  --section-uni-quote: grey;
+  --section-uni-quote: rgb(133, 132, 132);
   /* Light&Dark section `code` a bit darker than 'Light section - background color' */
   --section-uni-code-bg-color: #e0ded7;
   /* === Single pages=== */
