@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "The East Ridge Consulting Group"
+title = "The East Ridge Consulting Group - Business Professionals"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -35,10 +35,9 @@ title = "The East Ridge Consulting Group"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "The East Ridge Consulting Group"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Experienced and knowledgable consultants here to guide you to your goals."
+    description = "Business consultants ready to help you achieve your desired outcomes."
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
@@ -52,4 +51,4 @@ title = "The East Ridge Consulting Group"
     invertSectionColors = false
     
     [params.meta]
-        keywords = "consulting, East Ridge, Florida, business, advice"
+        keywords = "East Ridge Consultants, business, consulting, help, East Ridge, Florida"
