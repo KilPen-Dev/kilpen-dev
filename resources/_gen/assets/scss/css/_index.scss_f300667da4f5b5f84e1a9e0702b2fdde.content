@@ -1,12 +1,12 @@
 :root {
   /* === Cover / Landing area === */
-  --cover-text-color: #37501a;
+  --cover-text-color: #3c4b00;
   /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-  --highlight: #86c440;
+  --highlight: #ffffff;
   --highlight-contrast: var(--cover-text-color);
   /*iverse colors used for :hover */
   --highlight-inverse: var(--cover-text-color);
-  --highlight-inverse-contrast: white;
+  --highlight-inverse-contrast: #000000;
   /* visual guard around title and description, when the feature is enabled */
   --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
   --cover-title-text-shadow: white 0px 0px 7px;
@@ -16,11 +16,11 @@
   /* Light section - text color */
   --section-light-text-color: #3a4145;
   /* Light section - background color */
-  --section-light-bg-color: #f2efe8;
+  --section-light-bg-color: #e7ffe7;
   /* Dark section - text color */
   --section-dark-text-color: var(--section-light-bg-color);
   /* Dark section - background color */
-  --section-dark-bg-color: #b80135;
+  --section-dark-bg-color: #3c4b00;
   /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
   --section-uni-quote: grey;
   /* Light&Dark section `code` a bit darker than 'Light section - background color' */
@@ -42,7 +42,7 @@ body {
 /* ===== Cover =======*/
 #blog-logo {
   display: block;
-  max-height: 100px;
+  max-height: 200px;
   width: auto;
   margin: 0 auto;
   line-height: 0; }

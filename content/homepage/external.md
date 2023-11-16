@@ -1,6 +1,6 @@
 ---
-title: "GitHub"
+title: "Blog"
 weight: 99
 header_menu: true
-external: https://github.com/zjedi/hugo-scroll
+external: https://blog.kilpen.com
 ---
