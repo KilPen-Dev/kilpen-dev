@@ -6,7 +6,8 @@ weight: 3
 header_menu: true
 ---
 
-> I do stuff. Lots of stuff.  But mostly the stuff outlined below.
+*I do stuff. Lots of stuff.  But mostly the stuff outlined below.*
+
 ##### Business Consulting
 
 [Add Content]
