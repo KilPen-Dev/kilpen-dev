@@ -6,7 +6,7 @@ header_menu: true
 
 ![Sean McBride](images/sean_pic_round.png)
 
-##### Professional Experience
+##### Sean McBride, PhD., MBA, Retired Bad-ass
 
 The Man, The Myth, The Legend.
 
