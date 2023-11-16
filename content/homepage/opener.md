@@ -3,12 +3,6 @@ title: "Welcome"
 weight: 1
 ---
 
-`Hugo-Scroll` theme alternates colors of sections that are placed on single page. 
-The landing screen is meant to be visually striking.
+Thanks for stopping by.  Here is an intro message that talks about cool stuff we do...or whatever you want to talk about.
 
-Single-page approach is oriented towards small to medium content length, that won't overwhelm the user. 
-You can also delegate lengthier, less important or more sizeable content to [dedicated pages](services).
-
-> The belly rules the mind. --- spanish proverb
-
-By the way this welcome section won't show in the cover menu.
+> Wealth is like hair in the nose: it hurts to be separated whether from a little or from a lot.
