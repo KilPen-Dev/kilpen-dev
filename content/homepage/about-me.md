@@ -1,13 +1,20 @@
 ---
-title: "About Us"
+title: "About Kilpen"
 weight: 2
 header_menu: true
 ---
 
-![Sean McBride](images/sean_pic_round.png)
+[About intro] Founded in 2016, we strive to ...
 
-##### Sean McBride, PhD., MBA, Retired Bad-ass
+##### Meet the team
 
-The Man, The Myth, The Legend.
+![Christopher](images/chris_round.png)  
+
+Christopher, CISSP, PMP<br><em>[Title]</em><br><br> [Story]
+
+---
+
+![Elmer](images/elmer_round.png) 
+Elmer, MBA <br><em>[Title]</em><br><br> [Story]
 
 

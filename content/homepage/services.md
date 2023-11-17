@@ -1,19 +1,29 @@
 ---
-title: "The Services I Offer"
+title: "Our Services"
 header_menu_title: "Services"
-navigation_menu_title: "My Services"
+navigation_menu_title: "Services"
 weight: 3
 header_menu: true
 ---
 
-*I do stuff. Lots of stuff.  But mostly the stuff outlined below.*
+[Services Intro] We support your company or organization through all phases of growth using our tiered service packages.  Depending on your needs, an hourly option is available.
 
-##### Business Consulting
+##### [Service Category 1]
 
-[Add Content]
+[SC1 - Add Content]
 
-##### Leadership Counseling
+##### [Service Category 2]
 
-[Add Content]
+[SC2 - Add Content]
 
-Want to learn more about my services? See [dedicated page](services) with more details.
+##### Pricing
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| Tier 1 |  [Enter description] | $2,000 |
+| Tier 2 |    [Enter description]   |   $3,000 |
+| Tier 3 | [Enter description] |    $4,000 |
+| Hourly | Pay-as-you-go | $125 |
+    
+
+Want to learn more about our services? See our [Service Catalog](services) with more details.

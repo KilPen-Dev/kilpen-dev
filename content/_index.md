@@ -9,8 +9,8 @@ header_use_video: true
 header_logo: "images/logo.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Consultancy Services"
-header_subheadline: "Professionals you can count on."
+header_headline: "[Your Headline]"
+header_subheadline: "[Your Subheadline]"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
