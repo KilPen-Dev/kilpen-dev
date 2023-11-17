@@ -48,7 +48,7 @@ title = "KilPen Technical Services, A Hawaii Company"
     hidedesignbyline = true
 
     # The sections of the home page alternate styling. Mark invert as true to swap the styling of the sections
-    invertSectionColors = false
+    invertSectionColors = true
     
     [params.meta]
         keywords = "IT Services, technoloy, hawaii, oahu, automation, process improvement, software, development"
