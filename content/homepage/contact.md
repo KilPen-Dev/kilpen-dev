@@ -7,7 +7,7 @@ header_menu: true
 Please send a quick message and someone on our team will reach out soon!
 
 <div class="container">
-  <form action="https://n8n.kilpen.com/webhook/88699d08-789f-4f61-91f5-9c4e4ffff343">
+  <form method="Post" action="https://n8n.kilpen.com/webhook/88699d08-789f-4f61-91f5-9c4e4ffff343">
     <div class="row">
       <div class="col-100">
         <input type="text" id="name" name="name" placeholder="Name">
