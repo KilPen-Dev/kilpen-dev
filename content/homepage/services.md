@@ -23,7 +23,7 @@ header_menu: true
 | Tier 1 |  [Enter description] | $2,000 |
 | Tier 2 |    [Enter description]   |   $3,000 |
 | Tier 3 | [Enter description] |    $4,000 |
-| Hourly | Pay-as-you-go | $125 |
+| Hourly | Pay-as-you-go | $300 |
     
 
 Want to learn more about our services? See our [Service Catalog](services) with more details.
