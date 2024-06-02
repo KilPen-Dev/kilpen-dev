@@ -6,6 +6,8 @@ header_menu: true
 
 Please send a quick message and someone on our team will reach out soon!
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
 <div class="container">
   <form action="https://n8n.kilpen.com/webhook/e4f083c7-a320-468a-a213-5b28429fba04" method="post" class="form">
     <div class="row">
@@ -32,9 +34,7 @@ Please send a quick message and someone on our team will reach out soon!
 <script>
     $(document).ready(function(){
         $('.form').on('submit', function(){
-            swal("Title", "Message Content", "success", {
-  button: "Ok",
-});
+            alert('Your details were successfully received.');
         });
     });
 </script>
