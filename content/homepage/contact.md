@@ -31,7 +31,7 @@ Please send a quick message and someone on our team will reach out soon!
 
 <script>
     $(document).ready(function(){
-        $('.form').on('submit', function(){
+        $('.container').on('submit', function(){
             swal("Title", "Message Content", "success", {
   button: "Ok",
 });
