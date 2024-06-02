@@ -28,3 +28,13 @@ Please send a quick message and someone on our team will reach out soon!
     </div>
   </form>
 </div>
+
+<script>
+    $(document).ready(function(){
+        $('.form').on('submit', function(){
+            swal("Title", "Message Content", "success", {
+  button: "Ok",
+});
+        });
+    });
+</script>
