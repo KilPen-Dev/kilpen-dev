@@ -7,7 +7,7 @@ header_menu: true
 Please send a quick message and someone on our team will reach out soon!
 
 <div class="container">
-  <form action="https://n8n.kilpen.com/webhook/e4f083c7-a320-468a-a213-5b28429fba04" method="post">
+  <form action="https://n8n.kilpen.com/webhook/e4f083c7-a320-468a-a213-5b28429fba04" method="post" class="form">
     <div class="row">
       <div class="col-100">
         <input type="text" id="name" name="name" placeholder="Name">
@@ -31,7 +31,7 @@ Please send a quick message and someone on our team will reach out soon!
 
 <script>
     $(document).ready(function(){
-        $('.container').on('submit', function(){
+        $('.form').on('submit', function(){
             swal("Title", "Message Content", "success", {
   button: "Ok",
 });
